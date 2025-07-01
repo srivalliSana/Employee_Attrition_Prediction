@@ -50,3 +50,9 @@ This project aims to predict the likelihood of employee attrition (whether an em
 
 ## 🏗️ Project Structure
 
+Employee_Attrition_Prediction/
+├── Employee_Attrition.py
+├── WA_Fn-UseC_-HR-Employee-Attrition.csv
+├── Employee_Attrition_model.pkl
+├── requirements.txt
+└── README.md
