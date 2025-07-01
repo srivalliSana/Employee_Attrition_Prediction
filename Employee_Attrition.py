@@ -8,7 +8,7 @@ import joblib
 # ------------------------------
 # Load data and model
 # ------------------------------
-df = pd.read_csv("C://Users//USER//Downloads//WA_Fn-UseC_-HR-Employee-Attrition (1).csv")
+df = pd.read_csv("WA_Fn-UseC_-HR-Employee-Attrition (1).csv")
 model = joblib.load("Employee_Attrition_model.pkl")
 
 # ------------------------------
