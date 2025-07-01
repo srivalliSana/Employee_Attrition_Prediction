@@ -42,7 +42,7 @@ This project aims to predict the likelihood of employee attrition (whether an em
 
 ## 🌐 Live Demo
 
-👉 [Click here to open the deployed Streamlit app](your-streamlit-cloud-link-here)
+👉 [Click here to open the deployed Streamlit app](https://employeeattritionprediction-tm3uaycgjvfxbyk9wwpuni.streamlit.app/))
 
 *(replace the link above with your actual app URL)*
 
